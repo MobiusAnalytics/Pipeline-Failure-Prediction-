@@ -1,0 +1,18 @@
+Machine Failure Prediction
+
+
+
+
+Failure:             Tool wear 
+Process_temperature	308.9
+Rotational_speed	1455
+Torque	                41.3
+Tool wear	        208
+
+----------------------------------------
+	
+Failure:            Over strain
+Process_temperature	308.2
+Rotational_speed	1282
+Torque	                60.7
+Tool wear	        216
